@@ -1,0 +1,23 @@
+.contactFormInput {
+    width: 100%;
+    padding: 12px;
+    color:#687351;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 16px;
+    margin-bottom: 16px;
+  }
+  
+  .btn {
+    background-color: #687351;
+    ;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+  }
