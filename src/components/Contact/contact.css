@@ -1,9 +1,9 @@
 .contactFormInput {
     width: 100%; /* Full width */
     padding: 12px; /* Some padding */
-    border: 1px solid #687351; /* Gray border */
-    background-color: #c0caab;
-    color:#687351;
+    border: 1px solid #1f2a4d; /* Gray border */
+    background-color: white;
+    color: var(--color-primary1);
     border-radius: 4px; /* Rounded borders */
     box-sizing: border-box; /* Make sure that padding and width stays in place */
     margin-top: 16px; /* Add a top margin */
@@ -11,7 +11,7 @@
   }
   
   .btn {
-    background-color: #687351;
+    background-color: #e63946;
     ;
     border: none;
     color: rgb(255, 255, 255);

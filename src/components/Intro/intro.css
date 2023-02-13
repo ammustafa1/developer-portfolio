@@ -39,10 +39,6 @@
     transition: var(--transition-time);
   }
   
-  .icons a:hover {
-    color: var(--color-primary-dark);
-  }
-  
   .heroIcon {
     margin-left: 1rem;
   }

@@ -6,15 +6,12 @@ export default function AboutMe() {
       </div>
       <div className="row">
         <p>
-            My name is Ashraf Mustafa, and I am a full-stack developer from
-            Raleigh, North Carolina. I am a graduate of East Carolina University, transitioning into the developer space after spending the early years of my career in customer service and Emergency Medicine. <br></br>
-            I embarked on my developer journey through UNC's full-stack coding Bootcamp. I aim to be a versatile
-            developer that is constantly trying to perfect my skills and explore new technologies to become as
-            proficient as possible in both front-end and back-end development.
-           {' '}
-         </p>
-        
-        </div>
+        Hi, my name is Ashraf Mustafa and I am a full-stack developer from Raleigh, North Carolina. I have a Bachelor of Science in Public Health from East Carolina University and a background in customer service and emergency medicine. I recently transitioned into the developer space through UNC's full-stack coding bootcamp. <br></br>
+        I am an enthusiastic coder with a passion for learning and a desire to be a valuable addition to any company. During my bootcamp, I completed several projects that allowed me to apply my skills in a practical setting. I am confident in my ability to work well in a team and bring my strong problem-solving skills and quick decision-making to any project.
+        <br></br>
+        Outside of work, I enjoy team-based sports, combat sports, video games, hiking, overlanding, snowboarding, coffee brewing, and cooking.
+        </p>
       </div>
+    </div>
   );
 }
