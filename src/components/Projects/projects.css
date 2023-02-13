@@ -1,7 +1,8 @@
 .card {
-  background-color: #c0caab;
+  background-color: var(--color-primary4);
   border-radius: 0.5rem;
-  box-shadow: 0.05rem 0.1rem 0.3rem -0.03rem rgba(0, 0, 0, 0.45);
+    border: 1px solid #1f2a4d; /* Gray border */
+    box-shadow: 0.05rem 0.1rem 0.3rem -0.03rem ;
   padding-bottom: 1rem;
   background-blend-mode: overlay;
   overflow: auto;

@@ -7,6 +7,9 @@ import { SiJavascript } from "react-icons/si";
 import { SiCss3 } from "react-icons/si";
 import { SiHtml5 } from "react-icons/si";
 import { SiReact } from "react-icons/si";
+import { SiMysql } from "react-icons/si";
+import { SiTailwindcss } from "react-icons/si";
+import { SiGraphql } from "react-icons/si";
 
 export default function Skills() {
     return (
@@ -43,12 +46,27 @@ export default function Skills() {
 
             <div>
               <SiReact className="Icon" />
-              <p>React</p>
+              <p>React JS</p>
             </div>
 
             <div>
               <SiNodedotjs className="Icon" />
               <p>Node JS</p>
+            </div>
+
+            <div>
+              <SiMysql className="Icon" />
+              <p>MySQL</p>
+            </div>
+
+            <div>
+              <SiTailwindcss className="Icon" />
+              <p>Tailwind</p>
+            </div>
+
+            <div>
+              <SiGraphql className="Icon" />
+              <p>GraphQL</p>
             </div>
 
           </div>
