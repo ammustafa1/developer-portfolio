@@ -1,6 +1,6 @@
 * {
-
   box-sizing: border-box;
+  flex-wrap: wrap;
 
 
   --color-primary-dark: #c8222a;

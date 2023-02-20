@@ -24,12 +24,11 @@ export default function Projects() {
 
 
         <li className="card">
-          <img className="card-img" src='#'/>
+          <img className="card-img" src='https://miro.medium.com/max/1400/1*xdo0UBpyszvD7-7EH4TkIA.png'/>
           <h3>
-            <a href="">Project 3</a>
+            <a href="https://github.com/ammustafa1/README-generator">README Generator</a>
           </h3> 
         </li>
-
       </ul>
     </div>
   );

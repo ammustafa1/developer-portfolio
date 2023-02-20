@@ -41,7 +41,7 @@ export default function Skills() {
 
             <div>
               <SiExpress className="Icon" />
-              <p>Express.JS</p>
+              <p>Express JS</p>
             </div>
 
             <div>
